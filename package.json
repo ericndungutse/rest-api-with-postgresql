@@ -1,0 +1,11 @@
+{
+  "name": "crud-rest-api-with-postgresql",
+  "version": "1.0.0",
+  "description": "\"This is a crud rest api that uses express, and postgresql as database.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Ndungutse",
+  "license": "ISC"
+}
